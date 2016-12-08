@@ -2,7 +2,7 @@
 ## 前端性能错误监控上报简
 
 ### 简单实例：
-```javascript
+``` javascript
 <!DOCTYPE html> 
 <html> 
 <head> 
