@@ -39,4 +39,5 @@ throw new Error("出错了！");
 
 解决方法：
 1、添加script的crossorigin属性
+
 2、配置一下服务器，设置静态资源Javascript的Response为Access-Control-Allow-Origin（配置服务器返回头信息，比如：cdn加速服务器静态文件头信息设置为Access-Control-Allow-Origin:*）
